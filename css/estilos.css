@@ -1,0 +1,29 @@
+#principal {
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 5px;
+    width: 80%;
+}
+
+fieldset {
+    border: 1px solid black;
+    margin-bottom: 10px;
+    position: relative;
+    margin-bottom: 10px;
+    background-color: rgb(206, 199, 199);
+}
+
+legend {
+    border: 1px solid grey;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: rgb(245, 241, 128);
+}
+
+img {
+    border: 1px solid black;
+    width: 85px;
+    height: 75px;
+    margin: 5px;
+}
